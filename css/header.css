@@ -1,0 +1,26 @@
+/* GRID GERAL */
+.container {
+  color: var(--gray);
+  margin: 0 auto;
+  max-width: 1280px;
+}
+
+/* NAVEGACAO */
+.header-container {
+  padding: 60px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  font-size: 3rem;
+  color: var(--orange);
+}
+
+nav ul {
+  display: flex;
+  gap: 15px;
+}
+nav ul a {
+  font-size: 1.5rem;
+}
