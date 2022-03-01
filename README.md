@@ -2,7 +2,7 @@
 
 
 # Welcome :)
-<p>Este projeto faz parte de um desafio proposto pela <a href="https://devchallenge.now.sh/"> DevChallenge</a> para testar os conhecimentos em HTML e CSS</p>
+Este projeto faz parte de um desafio proposto pela <a href="https://devchallenge.now.sh/"> DevChallenge</a> para testar os conhecimentos em: ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  
 <br />
 <p align="center">
