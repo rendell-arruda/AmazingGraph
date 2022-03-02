@@ -9,6 +9,7 @@
 .header-container {
   padding: 60px 30px;
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
 }
@@ -17,10 +18,30 @@
   color: var(--orange);
 }
 
-nav ul {
+.nav ul {
   display: flex;
   gap: 15px;
 }
-nav ul a {
+.nav ul a {
   font-size: 1.5rem;
+}
+
+@media (max-width: 900px) {
+  .header-container {
+    padding: 40px 20px;
+  }
+  .logo {
+    font-size: 2rem;
+  }
+  .nav ul a {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 700px) {
+  .header-container {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+  }
 }
