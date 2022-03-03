@@ -2,8 +2,8 @@
 
 # Welcome :)
 
-<p>Este projeto faz parte de um desafio proposto pela <a href="https://devchallenge.now.sh/"> DevChallenge</a> para testar os conhecimentos em HTML e CSS</p>
- 
+Este projeto faz parte de um desafio proposto pela <a href="https://devchallenge.now.sh/"> DevChallenge</a> para testar os conhecimentos em: ![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 <br />
 <p align="center">
   <a href="http://www.freepik.com">
@@ -16,8 +16,6 @@
 <h3>Versão Mobile</h3>
 <img src="https://github.com/iagomachadoo/AmazingGraph/blob/main/design/amazing-graphics-mobile.png?raw=true">
 
->
-
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
@@ -25,8 +23,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Desenvolvimento do HTML.
 - [x] Início do CSS para a versão Desktop.
 - [x] Divisão do CSS em arquivos diferentes.
-- [x] Tornar o site responsivel para a versão mobile.
-- [ ] Adicionar menu "hamburguer" na versão mobile.
-- [ ] Adicionar efeitos visuais, transições e etc.
+- [ ] Tornar o site responsivel para a versão mobile.
+- [ ] Adicionar efeitos visuais, transições e etc
 
 [⬆ Voltar ao topo](#nome-do-projeto)<br>
